@@ -1,0 +1,39 @@
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:3vw;
+  }
+.centered2 {
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    transform: translate(-55%, -55%);
+    font-size:2.5vw;
+}
+h1{
+    color: antiquewhite;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btm{
+    margin-bottom: 0px;
+}
+.item{
+   
+    background-color: azure;
+}
+.temp:hover{
+    text-decoration: none;
+    opacity: 0.5;
+    text-shadow: 2px 2px 2px 2px black;
+}
+.temp2{
+    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.txtcol{
+    color: azure;
+}
